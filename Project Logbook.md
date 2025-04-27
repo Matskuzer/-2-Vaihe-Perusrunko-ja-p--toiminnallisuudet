@@ -23,6 +23,10 @@
 | 9.4.2025   | 2 h    | Poistotoiminto ja virheiden korjaus |
 | 11.4.2025  | 2 h    | Kommentointi, siistiminen ja tyylittely |
 | 13.4.2025  | 4 h    | GitHub-käyttö, palautusmateriaalit ja testaus |
+|25.4.2025 |   6 h |   Jatkokehitys |
+|27.4.2025 |   3 h |   Viimeistely |
+|27.4.2025 |   2 h |   Esityksen teko |
+|  Yhteensä:| 37 h |
 
 |            |        | **Yhteensä: 27 h** |
 
